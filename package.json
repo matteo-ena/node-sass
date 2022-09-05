@@ -65,7 +65,7 @@
     "npmlog": "^5.0.1",
     "node-gyp": "^8.4.0",
     "request": "^2.88.0",
-    "sass-graph": "3.0.5",
+    "sass-graph": "4.0.1",
     "stdout-stream": "^1.4.0",
     "true-case-path": "^2.2.1"
   },
