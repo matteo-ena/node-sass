@@ -63,7 +63,7 @@
     "meow": "^10.1.1",
     "nan": "^2.13.2",
     "npmlog": "^5.0.1",
-    "node-gyp": "^8.4.0",
+    "node-gyp": "^9.3.0",
     "request": "^2.88.0",
     "sass-graph": "3.0.5",
     "stdout-stream": "^1.4.0",
